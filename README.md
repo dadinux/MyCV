@@ -26,7 +26,7 @@ Attività di particolare rilievo fin'ora svolte:
 - Campagna di valutazione dell’obsolescenza del sistema ICSS e dei sottosistemi.
 
 #### Consulente per CAP Engineering:    
-Kashagan Development Experimental Program   
+## Kashagan Development Experimental Program   
 (raccogliere varie esperienze e saltare i vari passaggi intermedi)  
 AGIP / TECNOMARE / ABB /... ETC
 

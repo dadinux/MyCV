@@ -24,3 +24,13 @@ Attività di particolare rilievo fin'ora svolte:
 - Revamping del PLDS (Pipeline Leak Detection System), in collaborazione con ATMOS (UK).
 - Campagna di mitigazione rischi ai sottosistemi, in occasione di un Audit Exxon Mobil.
 - Campagna di valutazione dell’obsolescenza del sistema ICSS e dei sottosistemi.
+
+#### Consulente per CAP Engineering:    
+Kashagan Development Experimental Program   
+(raccogliere varie esperienze e saltare i vari passaggi intermedi)  
+AGIP / TECNOMARE / ABB /... ETC
+
+#### FOSTER WHEELER
+Raccogliere AIRUP, COGEN, RELP, etc... 
+
+#### 

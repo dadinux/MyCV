@@ -11,9 +11,9 @@ e-mail: davide.maggi.wrk@gmail.com
 
 ## Esperienza Professionale
 
-#### (Da Settembre 2015 a maggio 2014) Consulente per ETS Engineering Technical Services presso:   
+#### (Da Settembre 2015 a maggio 2014) Consulente per [ETS Engineering Technical Services](https://www.gruppoets.com/) presso:   
 
-## LNG Terminale Adriatico   
+## [Terminale GNL Adriatico](https://www.adriaticlng.it/)   
 ICSS Leader Support sui sistemi Centum e Prosafe e sui sottosistemi (PLC) che equipaggiano le utilities del terminale.   
 Supporto ai tecnici di bordo nell'attività di manutenzione.   
 Verifica ed aggiornamento della documentazione.   

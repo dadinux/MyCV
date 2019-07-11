@@ -27,10 +27,13 @@ Attività di particolare rilievo fin'ora svolte:
 
 #### (Da Settembre 2015 a maggio 2014) Consulente per CAP Engineering    
 ## Kashagan Development Experimental Program   
-(raccogliere varie esperienze e saltare i vari passaggi intermedi)  
-AGIP / TECNOMARE / ABB /... ETC
+Ingegneria di strumentazione
+Popolamento database INTOOLS
+MarkUp e produzione di documentazione di ingegneria (C&E, I/O e Instrument List, Wiring, Alarm Matrix,...)
+FAT Cabinet DCS/SIS/F&G/Networking)
+Attività svolte fra il 2009 e il 2014 per conto di Tecnomare, ABB, AGIP KCO sia presso le sedi italiane che in Atyrau (Kazakhstan) e Burgess Hill (UK).
 
 #### FOSTER WHEELER
-Raccogliere AIRUP, COGEN, RELP, etc... 
+ 
 
 #### 

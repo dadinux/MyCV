@@ -25,8 +25,8 @@ Attività di particolare rilievo fin'ora svolte:
 - Campagna di mitigazione rischi ai sottosistemi, in occasione di un Audit Exxon Mobil.
 - Campagna di valutazione dell’obsolescenza del sistema ICSS e dei sottosistemi.
 
-#### (Da Settembre 2015 a maggio 2014) Consulente per CAP Engineering    
-## Kashagan Development Experimental Program   
+#### (Da Settembre 2015 a maggio 2014) Consulente per [CAP Engineering]() presso:    
+## [Kashagan Development Experimental Program](https://kbr.com/en/experience/kashagan-experimental-program-phase-1)
 Ingegneria di strumentazione
 Popolamento database INTOOLS
 MarkUp e produzione di documentazione di ingegneria (C&E, I/O e Instrument List, Wiring, Alarm Matrix,...)

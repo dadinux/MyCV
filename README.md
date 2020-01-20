@@ -82,3 +82,6 @@ farmaceutici in collaborazione con Foster Wheeler Italiana divisione STERIL.
 Presso Snamprogetti (Milano) e presso l’impianto di Ras Laffan (Qatar), modellazione (Autocad / Microstation) delle vie
 cavi e del layout strumentale dei pontili di ormeggio.
 Gestione del team di disegno CAD della Società.
+
+
+Vittuone, 20 gennaio 2020

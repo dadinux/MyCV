@@ -56,3 +56,29 @@ e soprattutto della sicurezza mia e dei miei colleghi.
 * *(I&C Engineer presso ETS)* *
 ICSS Leader – Supervisione e coordinamento delle attività di manutenzione ed aggiornamento relative al sistema ICSS
 (DCS/ESD/F&G) e dei sottosistemi del GNL Terminale Adriatico.
+
+#### periodo: 2009 – 2014
+### Kashagan Development Experimental Program
+* *(Ingegnere di Strumentazione ed Automazione presso CAP Engineering)* *
+Attività di revisione ed accettazione della documentazione prodotta dai vendors (Italia e Kazakhstan).
+Attività di FAT sui marshalling e system cabinet di Invensys (UK).
+Progetto preliminare nuovi clusters “unmanned” di perforazione / estrazione.
+
+#### periodo: 2008 – 2009
+### AIRUP/COGEN (Progetto di upgrade della Raffineria ESSO di Anversa)
+* *(Ingegnere di Strumentazione ed Automazione presso CAP Engineering)* *
+Migrazione al nuovo sistema di automazione dell’impianto e sviluppo della caldaia del nuovo sistema di cogenerazione.
+Popolamento del database InTools e realizzazione della documentazione di ingegneria wiring/C&E/Layout/Datasheets).
+
+#### periodo: 2005
+### Impianto di produzione di Eparina Sodica e Ferritina (Corlo di Formigine)
+* *(Ingegnere di Strumentazione ed Automazione presso CAP Engineering)* *
+Programmazione su PLC Siemens S7-300 e sviluppo dell’interfaccia grafica su pannelli BARTEC / WinCC) per due impianti
+farmaceutici in collaborazione con Foster Wheeler Italiana divisione STERIL.
+
+##### periodo: 2003 - 2005
+### Ras Laffan Expansion Project
+* *(Instrumental designer at Gruppo ECIS)* *
+Presso Snamprogetti (Milano) e presso l’impianto di Ras Laffan (Qatar), modellazione (Autocad / Microstation) delle vie
+cavi e del layout strumentale dei pontili di ormeggio.
+Gestione del team di disegno CAD della Società.

@@ -51,7 +51,11 @@ e soprattutto della sicurezza mia e dei miei colleghi.
 
 ## Principali Esperienze Professionali
 
-#### periodo: 2014 – attuale
+#### periodo: 2022 – attuale
+### Yokogawa Italia
+* *(System Service & Project Engineer)* *
+
+#### periodo: 2014 – 2022
 ### GNL Terminale Adriatico (Rigassificatore)
 * *(I&C Engineer presso ETS)* *
 ICSS Leader – Supervisione e coordinamento delle attività di manutenzione ed aggiornamento relative al sistema ICSS
